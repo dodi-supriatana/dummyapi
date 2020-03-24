@@ -1,6 +1,10 @@
-"posts": [{
-  "name":"mas pur",
-  "motor" : "NMAX",
-  "Agging_time":"2 th 15 hari",
-  "note" : "Sabar mas her, kalo rejeki pasti balik"
-}]
+{
+  "posts": [
+    {
+      "name": "mas pur",
+      "motor": "NMAX",
+      "Agging_time": "2 th 15 hari",
+      "note": "Sabar mas her, kalo rejeki pasti balik"
+    }
+  ]
+}
