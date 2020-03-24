@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "name":"mas pur",
+  "motor" : "NMAX",
+  "Agging_time":"2 th 15 hari",
+  "note" : "Sabar mas her, kalo rejeki pasti balik"
 }
